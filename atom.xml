@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-01-31T13:21:52.290Z</updated>
+  <updated>2024-01-31T13:36:32.727Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Flex布局</title>
+    <link href="http://example.com/2024/01/31/Flex%E5%B8%83%E5%B1%80/"/>
+    <id>http://example.com/2024/01/31/Flex%E5%B8%83%E5%B1%80/</id>
+    <published>2024-01-30T16:00:00.000Z</published>
+    <updated>2024-01-31T13:36:32.727Z</updated>
+    
+    
+    
+    
+    <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="CSS" scheme="http://example.com/tags/CSS/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JS中This的指向</title>
     <link href="http://example.com/2024/01/31/JS%E4%B8%ADThis%E7%9A%84%E6%8C%87%E5%90%91/"/>
     <id>http://example.com/2024/01/31/JS%E4%B8%ADThis%E7%9A%84%E6%8C%87%E5%90%91/</id>
     <published>2024-01-30T16:00:00.000Z</published>
-    <updated>2024-01-31T13:21:52.290Z</updated>
+    <updated>2024-01-31T13:36:41.729Z</updated>
     
     
       
@@ -34,6 +51,10 @@
     
     
     
+    <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="JavaScript" scheme="http://example.com/tags/JavaScript/"/>
     
   </entry>
   
